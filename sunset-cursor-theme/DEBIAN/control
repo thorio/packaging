@@ -1,0 +1,8 @@
+Package: sunset-cursor-theme
+Version: 1.0
+Architecture: all
+Maintainer: thorio <thorio.git@gmail.com>
+Section: x11
+Priority: optional
+Homepage: https://github.com/thorio/packaging/tree/master/sunset-cursor-theme
+Description: X11 cursor theme, made by yeyushengfan258 over at https://www.gnome-look.org/p/1602560
